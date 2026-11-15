@@ -10,25 +10,25 @@ Each dashboard showcases a combination of key performance indicators (KPIs), int
 
 The project files are structured as follows:
 
-*   **PBIX Files (Power BI Desktop Files):**
-    *   [`campaign_performance.pbix`](file:///d:/learning/college/sem-6/powerbi/project/campaign_performance.pbix) - Marketing Campaign analysis.
-    *   [`sales_and_movie_productions.pbix`](file:///d:/learning/college/sem-6/powerbi/project/sales_and_movie_productions.pbix) - Multi-page report covering both Movie Production and Sales Analysis.
-    *   [`social_media_analysis.pbix`](file:///d:/learning/college/sem-6/powerbi/project/social_media_analysis.pbix) - Social Media account performance and engagement dashboard.
-*   **Screenshots & Visual Assets:**
-    *   [`campaign_performance.png`](file:///d:/learning/college/sem-6/powerbi/project/campaign_performance.png)
-    *   [`movie_credits.png`](file:///d:/learning/college/sem-6/powerbi/project/movie_credits.png)
-    *   [`sales.png`](file:///d:/learning/college/sem-6/powerbi/project/sales.png)
-    *   [`social_media_analysis.png`](file:///d:/learning/college/sem-6/powerbi/project/social_media_analysis.png)
+*   **PBIX Files (Power BI Desktop Files) — repository root:**
+    *   [`campaign_performance.pbix`](campaign_performance.pbix) - Marketing campaign analysis.
+    *   [`sales_and_movie_productions.pbix`](sales_and_movie_productions.pbix) - Multi-page report covering movie production and sales analysis.
+    *   [`social_media_analysis.pbix`](social_media_analysis.pbix) - Social media account performance and engagement dashboard.
+*   **Screenshots & Visual Assets — [`images/`](images/):**
+    *   [`campaign_performance.png`](images/campaign_performance.png)
+    *   [`movie_credits.png`](images/movie_credits.png)
+    *   [`sales.png`](images/sales.png)
+    *   [`social_media_analysis.png`](images/social_media_analysis.png)
 
 ---
 
 ## 📊 Dashboard Overviews
 
 ### 1. Social Media Performance Dashboard
-* **Source File:** [`social_media_analysis.pbix`](file:///d:/learning/college/sem-6/powerbi/project/social_media_analysis.pbix)
+* **Source File:** [`social_media_analysis.pbix`](social_media_analysis.pbix)
 * **Visual Representation:**
   
-  ![Social Media Analysis Dashboard](social_media_analysis.png)
+  ![Social Media Analysis Dashboard](images/social_media_analysis.png)
 
 #### Description & Features:
 The **Social Media Analysis** dashboard provides a high-level overview of account engagement, growth, and audience interactions across three major social media platforms: Facebook, Instagram, and Twitter. 
@@ -54,13 +54,13 @@ The **Social Media Analysis** dashboard provides a high-level overview of accoun
 ---
 
 ### 2. Sales & Movie Production Analysis Report
-* **Source File:** [`sales_and_movie_productions.pbix`](file:///d:/learning/college/sem-6/powerbi/project/sales_and_movie_productions.pbix)
+* **Source File:** [`sales_and_movie_productions.pbix`](sales_and_movie_productions.pbix)
 * **Pages:** This multi-page report comprises two distinct operational dashboards: **Sales Analysis** and **Movie Production Analysis**, sharing a cohesive design language.
 
 #### Page A: Sales Analysis Dashboard
 * **Visual Representation:**
 
-  ![Sales Analysis Dashboard](sales.png)
+  ![Sales Analysis Dashboard](images/sales.png)
 
 *   **Overview:** Focuses on tracking orders, categories, and regional performance trends.
 *   **Core KPI Cards:**
@@ -81,7 +81,7 @@ The **Social Media Analysis** dashboard provides a high-level overview of accoun
 #### Page B: Movie Production Analysis Dashboard
 * **Visual Representation:**
 
-  ![Movie Production Analysis Dashboard](movie_credits.png)
+  ![Movie Production Analysis Dashboard](images/movie_credits.png)
 
 *   **Overview:** Provides insights into studio production metrics, cast/crew sizes, and creative departments.
 *   **Core KPI Cards:**
@@ -100,10 +100,10 @@ The **Social Media Analysis** dashboard provides a high-level overview of accoun
 ---
 
 ### 3. Marketing Campaign Performance Dashboard
-* **Source File:** [`campaign_performance.pbix`](file:///d:/learning/college/sem-6/powerbi/project/campaign_performance.pbix)
+* **Source File:** [`campaign_performance.pbix`](campaign_performance.pbix)
 * **Visual Representation:**
 
-  ![Campaign Performance Dashboard](campaign_performance.png)
+  ![Campaign Performance Dashboard](images/campaign_performance.png)
 
 #### Description & Features:
 This dashboard evaluates marketing campaigns to optimize advertising spend and maximize Return on Investment (ROI).
